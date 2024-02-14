@@ -32,12 +32,13 @@
   </a>
   <a href="https://www.linkedin.com/in/feyza-sapan-3409612a3/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img align="right" height="150" src="https://media.tenor.com/iviIq2uXz-kAAAAj/work-office.gif"  />
   </a>
 </div>
 
 
 
-<img align="right" height="120" src="https://media.tenor.com/iviIq2uXz-kAAAAj/work-office.gif"  />
+
 
 
 
