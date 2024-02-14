@@ -32,7 +32,6 @@
   </a>
   <a href="https://www.linkedin.com/in/feyza-sapan-3409612a3/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-    <img align="right" height="150" src="https://media.tenor.com/iviIq2uXz-kAAAAj/work-office.gif"  />
   </a>
 </div>
 
@@ -40,6 +39,6 @@
 
 
 
+<img align="right" height="120" src="https://media.tenor.com/iviIq2uXz-kAAAAj/work-office.gif"  />
 
-
-<img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" alt="Snake animation" height="180" />
+<img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" alt="Snake animation" height="120" />
